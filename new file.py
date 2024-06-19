@@ -4,4 +4,5 @@ Import time
 Import time zone
 Import numpy
 
-day 06.18
+day 06.19
+
